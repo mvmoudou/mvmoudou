@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🎓 Data & AI student, I’m taking you into my world to learn, share, and grow together.
 
 
