@@ -1,5 +1,5 @@
 # ✨ About Me:
-Hi, I'm Mamoudou Sidibe<br><br>🎓 Master's student in Computer Science & Data Science at Sorbonne Paris Nord University  <br>💻 Passionate about Data Science, Artificial Intelligence and Machine Learning  <br>🚀 Currently working on projects involving Machine Learning, Data Analysis, Predictive Modeling, Deep Learning and Intelligent Data-Driven Applications  <br>📊 Interested in Data Mining, Predictive Analytics, Computer Vision, Big Data and AI-powered solutions  <br>🌍 Based in France
+Hi, I'm Mamoudou SIDIBE ;)<br><br>🎓 Master's student in Computer Science & Data Science at Sorbonne Paris Nord University  <br>💻 Passionate about Data Science, Artificial Intelligence and Machine Learning  <br>🚀 Currently working on projects involving Machine Learning, Data Analysis, Predictive Modeling, Deep Learning and Intelligent Data-Driven Applications  <br>📊 Interested in Data Mining, Predictive Analytics, Computer Vision, Big Data and AI-powered solutions  <br>🌍 Based in France
 
 
 ## 🌐 Socials:
